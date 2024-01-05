@@ -3,7 +3,8 @@
 
 *Bienvenue sur NovaFest, la destination ultime pour les passionnés de musique ! Rejoignez-nous pour une expérience inoubliable où la musique, la communauté et l'énergie convergent. NovaFest transcende les saisons, créant des souvenirs durables et offrant une immersion totale dans la magie de la musique. Préparez-vous à partager des moments inoubliables avec nous.*
 
-* View of application *
+*View of application*
+
 <img width="912" alt="Capture" src="https://github.com/DamienL31/Website-HTML-Festival/assets/152622955/373b6bf0-01e7-4a4a-8526-3ce251dc699e">
 
 ## Table des matières
