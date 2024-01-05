@@ -25,12 +25,19 @@ Un festival d'été comme aucun autre, NovaFest réunit les plus grands artistes
 Découvrez la programmation exceptionnelle de chaque jour de NovaFest :
 
 Jour 1 :
-- Coldplay, Ninho, Nekfeu
+
+- Coldplay, Ninho, Nekfeu,
+  
 Jour 2 :
-- Orelsan, Shakira, David Guetta
+
+- Orelsan, Shakira, David Guetta,
+  
 Jour 3 : 
-- Calvin Harris, PNL, Dj Snake
+
+- Calvin Harris, PNL, Dj Snake,
+  
 Jour 4 : 
+
 - Khalid, Drake, The Weeknd
 
 ## Billets
